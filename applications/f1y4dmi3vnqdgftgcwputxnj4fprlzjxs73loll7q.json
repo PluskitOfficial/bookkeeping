@@ -1,0 +1,49 @@
+{
+  "Version": "1.3",
+  "ID": "f1y4dmi3vnqdgftgcwputxnj4fprlzjxs73loll7q",
+  "Issue Number": "2",
+  "Client": {
+    "Name": "Chengdu Codoon Health Technology Co., Ltd.",
+    "Region": "China",
+    "Industry": "Life Science / Healthcare",
+    "Website": "https://www.codoonhealth.com/",
+    "Social Media": "咕咚健康",
+    "Social Media Type": "Other",
+    "Role": "Dataset Owner"
+  },
+  "Project": {
+    "Brief history of your project and organization": "Codoon Health is committed to improving sub-health problems caused by high blood sugar, hypertension and unbalanced diet. It is a management and service system that provides exercise and diet solutions based on AI data. Users can obtain scientific exercise programs and professional dietary guidance services after testing or health assessment, so as to improve their health and get rid of sub-health. We connect intelligent health devices to collect ultra-high dimensional body data of users and analyze and calibrate their health status. The Health Big Data Joint Laboratory was jointly built with Sichuan University. It transforms the existing research results to form an effective exercise diet solution. We have also built our own team of nutritionists to provide users with a comprehensive diet guidance and service system of intelligent + manual intervention. Codoon Health, a healthy lifestyle.",
+    "Is this project associated with other projects/ecosystem stakeholders?": "No",
+    "Describe the data being stored onto Filecoin": "Promotional videos, texts and videos related to company operations.",
+    "Where was the data currently stored in this dataset sourced from": "My Own Storage Infra",
+    "How do you plan to prepare the dataset": "These data will be stored in hard disk and online cloud disk, such as baidu cloud disk.",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "Link：https://pan.baidu.com/s/1LTQsiTQFT3OHFo43VRwQJQ \r\nExtraction Code：wud3",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[ ] I confirm",
+    "What is the expected retrieval frequency for this data": "Yearly",
+    "For how long do you plan to keep this dataset stored on Filecoin": "Permanently",
+    "In which geographies do you plan on making storage deals": "Greater China",
+    "How will you be distributing your data to storage providers": "Shipping hard drives",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "I have not decided the list of sps I will cooperate with.",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "50 TiB",
+    "Single Size Dataset": "10 TiB",
+    "Replicas": 5,
+    "Weekly Allocation": "5 TiB"
+  },
+  "Lifecycle": {
+    "State": "Submitted",
+    "Validated At": "",
+    "Validated By": "",
+    "Active": true,
+    "Updated At": "2024-06-12 08:46:36.344516118 UTC",
+    "Active Request ID": "",
+    "On Chain Address": "f1y4dmi3vnqdgftgcwputxnj4fprlzjxs73loll7q",
+    "Multisig Address": "true",
+    "edited": false
+  },
+  "Allocation Requests": []
+}
