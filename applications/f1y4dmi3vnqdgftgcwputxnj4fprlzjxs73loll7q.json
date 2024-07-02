@@ -35,11 +35,11 @@
     "Weekly Allocation": "5 TiB"
   },
   "Lifecycle": {
-    "State": "ReadyToSign",
+    "State": "Granted",
     "Validated At": "2024-07-02 03:33:08.006184516 UTC",
     "Validated By": "PluskitOfficial",
     "Active": true,
-    "Updated At": "2024-07-02 03:33:08.006189517 UTC",
+    "Updated At": "2024-07-02 03:36:20.832932586 UTC",
     "Active Request ID": "0e8f15f5-da4c-4dcf-bd3f-9338c0876ee7",
     "On Chain Address": "f1y4dmi3vnqdgftgcwputxnj4fprlzjxs73loll7q",
     "Multisig Address": "true",
@@ -51,9 +51,16 @@
       "Request Type": "First",
       "Created At": "2024-07-02 03:33:08.006192308 UTC",
       "Updated At": "2024-07-02 03:33:08.006193681 UTC",
-      "Active": true,
+      "Active": false,
       "Allocation Amount": "10TiB",
-      "Signers": []
+      "Signers": [
+        {
+          "Github Username": "PluskitOfficial",
+          "Signing Address": "f1tgnlhtcmhwipfm7thsftxhn5k52velyjlazpvka",
+          "Created At": "2024-07-02 03:36:18.878000000 UTC",
+          "Message CID": "bafy2bzacechvq34ajkijavjivsugzpjqqsq52cmi6xcbg3lflvg3p7ib7snds"
+        }
+      ]
     }
   ]
 }
