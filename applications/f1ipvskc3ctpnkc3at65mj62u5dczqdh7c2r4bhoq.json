@@ -35,12 +35,12 @@
     "Weekly Allocation": "512TiB"
   },
   "Lifecycle": {
-    "State": "Granted",
-    "Validated At": "2024-11-06 02:33:14.050196296 UTC",
+    "State": "ReadyToSign",
+    "Validated At": "2024-11-11 01:38:33.167758849 UTC",
     "Validated By": "PluskitOfficial",
     "Active": true,
-    "Updated At": "2024-11-06 02:36:38.123000264 UTC",
-    "Active Request ID": "c0bc9ff8-b9d9-4baa-824a-65dff12b59b1",
+    "Updated At": "2024-11-11 01:38:33.167763129 UTC",
+    "Active Request ID": "9d1c4d39-2b22-4293-a4e5-030a5eb5320b",
     "On Chain Address": "f1ipvskc3ctpnkc3at65mj62u5dczqdh7c2r4bhoq",
     "Multisig Address": "false",
     "edited": false
@@ -61,6 +61,15 @@
           "Message CID": "bafy2bzacedocwy6oendt2ipjjdye6cqd2de2obow33n3fnwqyq76ee5ruoqeu"
         }
       ]
+    },
+    {
+      "ID": "9d1c4d39-2b22-4293-a4e5-030a5eb5320b",
+      "Request Type": "Refill",
+      "Created At": "2024-11-11 01:38:33.167767242 UTC",
+      "Updated At": "2024-11-11 01:38:33.167768032 UTC",
+      "Active": true,
+      "Allocation Amount": "1024TiB",
+      "Signers": []
     }
   ]
 }
