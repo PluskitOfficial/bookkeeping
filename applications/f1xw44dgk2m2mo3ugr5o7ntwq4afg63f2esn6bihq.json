@@ -38,9 +38,9 @@
     "State": "Granted",
     "Validated At": "2024-12-13 08:00:33.497399345 UTC",
     "Validated By": "PluskitOfficial",
-    "Active": true,
-    "Updated At": "2024-12-13 08:00:33.497395581 UTC",
-    "Active Request ID": "fa467a10-5281-428d-8b86-2ca2170c5230",
+    "Active": false,
+    "Updated At": "2025-01-08 13:00:29.931588957 UTC",
+    "Active Request ID": "",
     "On Chain Address": "f1xw44dgk2m2mo3ugr5o7ntwq4afg63f2esn6bihq",
     "Multisig Address": "false",
     "edited": false
